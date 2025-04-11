@@ -1,0 +1,12 @@
+{
+  "name": "file_creater",
+  "version": "1.0.0",
+  "main": "file.js",
+  "scripts": {
+    "start": "node file.js"
+  },
+  "author": "shah wlai",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
