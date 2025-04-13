@@ -2,7 +2,7 @@ import Readline from "readline/promises";
 import fetch from "node-fetch";
 
 // create Account here in open weather map then open this https://home.openweathermap.org/api_keys then you will see your api key
-const API_KEY = `#`;
+const API_KEY = `6efdbbf577c49a3112165947a08da743`;
 const BASE_URL = `https://api.openweathermap.org/data/2.5/weather`;
 
 const rl = Readline.createInterface({
